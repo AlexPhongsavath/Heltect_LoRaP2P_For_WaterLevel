@@ -1,6 +1,6 @@
 /*
 
-Source code is locate into Folder Example
+Source code is locate into Example  Folder
 If you want to run project, Copy code and run into main.ino each node
 
 */
