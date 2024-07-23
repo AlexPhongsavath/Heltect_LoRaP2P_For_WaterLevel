@@ -1,17 +1,3 @@
-/* Heltec Automation Receive communication test example
- *
- * Function:
- * 1. Receive the same frequency band lora signal program
- *
- * Description:
- *
- * HelTec AutoMation, Chengdu, China
- * 成都惠利特自动化科技有限公司
- * www.heltec.org
- *
- * this project also realess in GitHub:
- * https://github.com/Heltec-Aaron-Lee/WiFi_Kit_series
- * */
 
 #include "LoRaWan_APP.h"
 #include "Arduino.h"
